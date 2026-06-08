@@ -21,12 +21,12 @@ npm install ../mamorasoft-helpers/indonesian-date-vue
 
 ### Git Repository (SSH)
 ```bash
-npm install git+ssh://git@github.com:Mamorasoft/mamorasoft-helpers.git#indonesian-date-vue
+npm install git+ssh://git@github.com:Mamorasoft/indonesian-date-vue.git
 ```
 
 ### Git Repository (HTTPS)
 ```bash
-npm install git+https://github.com/Mamorasoft/mamorasoft-helpers.git#indonesian-date-vue
+npm install git+https://github.com/Mamorasoft/indonesian-date-vue.git
 ```
 
 ---
