@@ -122,3 +122,10 @@ The formatting logic mirrors PHP's `date()` formatting characters:
 | **A** | Uppercase AM/PM marker | `AM` or `PM` |
 
 > **Note:** Use `\` to escape characters (e.g. `\\D\\a\\t\\e` for literal "Date").
+
+---
+
+## Creator
+
+- [alfin-dev](https://github.com/alfin-dev)
+
